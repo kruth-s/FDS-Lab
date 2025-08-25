@@ -6,7 +6,7 @@
 - **Institution:** RV Unviersity
 
 ---
-
+1
 ## Objective
 The **Fundamentals of Data Science (FDS) Laboratory** is designed to provide hands-on experience in applying concepts of data science using Python. Students will explore various analytical approaches including descriptive, diagnostic, predictive, and prescriptive analytics, while also learning how to handle datasets, perform visualizations, and implement machine learning models.
 
